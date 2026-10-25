@@ -1,0 +1,28 @@
+{
+  "name": "gmail-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounab3/gmail-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mounab3/gmail-agent/issues"
+  },
+  "homepage": "https://github.com/mounab3/gmail-agent#readme",
+  "dependencies": {
+    "@mastra/core": "^1.79.0",
+    "@types/node": "^26.6.5",
+    "mastra": "^1.35.0",
+    "typescript": "^7.0.2",
+    "zod": "^4.6.7"
+  }
+}
